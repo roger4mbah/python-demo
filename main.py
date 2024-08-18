@@ -11,3 +11,4 @@ for i in range(1, sentinel + 1):
         print("Fuzz")
     else:
         print(i)
+print("This is cool stuff")
